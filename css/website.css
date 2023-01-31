@@ -1,0 +1,138 @@
+body {
+    font-family: "Bai Jamjuree";
+}
+
+.header {
+    background-image: url("../img/images/bg-header-desktop.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.logo {
+    text-align: center;
+}
+
+.box1 {
+    text-align: center;
+}
+
+.p1 {
+    text-align: center;
+    font-weight: 600;
+    font-style: oblique;
+    color: hsl(210, 10%, 33%);
+    font-weight: 600;
+}
+
+.p2 {
+    text-align: center;
+    font-weight: 400;
+    font-style: oblique;
+    color: hsl(201, 11%, 66%);
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+
+.button1 {
+    background-color: hsl(171, 66%, 44%);
+    color: white;
+    border: none;
+    text-align: center;
+    border-radius: 20px;
+    height: 40px;
+    padding: 10px;
+}
+
+.button2 {
+    background-color: hsl(233, 100%, 69%);
+    color: white;
+    border: none;
+    text-align: center;
+    border-radius: 20px;
+    height: 40px;
+    padding: 10px;
+}
+
+.box2 {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.box3 {
+    margin-top: 80px;
+    display: flex;
+}
+
+.box3img {
+    width: 250px;
+    height: 150px;
+}
+
+.box4 {
+    margin-top: 100px;
+    margin-left: 60px;
+}
+
+.box5 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.box5img {
+    text-align: center;
+    width: 200px;
+    height: 150px;
+}
+
+.box6 {
+    text-align: center;
+    display: flex;
+}
+
+.box7 {
+    margin: 100px;
+}
+
+.box8 {
+    display: flex;
+
+}
+
+.box8>div {
+    margin: 50px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.footer {
+    display: flex;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: hsl(201, 14%, 80%);
+    color: hsl(210, 10%, 33%);
+    text-align: center;
+    margin-top: 200px;
+}
+
+.part1 {
+    margin: 20px;
+}
+
+.part2 {
+    margin: 50px;
+}
+
+.part3 {
+    margin: 50px;
+}
+
+.part4 {
+    margin: 50px;
+}
+
+.part5 {
+    margin: 80px;
+
+}
+
